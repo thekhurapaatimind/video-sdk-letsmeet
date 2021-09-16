@@ -1,5 +1,9 @@
 # Let's Meet!
 HackSDK : Project by Brute Force
+_We were unable to understand the use of the APIs and hence ended up just putting a HTML page before the Pre-Built-RTC-Interface
+
+[Click Here to Join The Meet!](https://thekhurapaatimind.github.io/video-sdk-letsmeet/)
+
 
 ### TEAM MEMBERS:
 - [Abhinav Yadav](https://github.com/thekhurapaatimind)
